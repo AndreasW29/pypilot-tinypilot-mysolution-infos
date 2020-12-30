@@ -9,3 +9,5 @@ There are three zip folders in the kicad folder
 These contain the kicad project files.
 Download and unzip.
 You will then find a pdf file with the circuit diagram and a gerber folder. There are the gerber files that can be used to order circuit boards.
+
+30.12.2020: Changed the guide
