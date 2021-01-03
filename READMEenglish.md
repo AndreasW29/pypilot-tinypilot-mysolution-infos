@@ -3,7 +3,7 @@ Guide and kicad schematics
 
 Instructions and circuit diagrams (kicad)
 
-Instructions can be found in the guide folder
+Instructions can be found in the guide folder, there is also a folder with the schematics 
 
 There are three zip folders in the kicad folder
 These contain the kicad project files.
@@ -16,3 +16,4 @@ It fits for a housing 160 x 80 mm
 like this: https://www.reichelt.de/gehaeuse-serie-euromas-i-160-x-80-x-55-mm-ip65-bopla-m-220-g-p126250.html?&trstct=pos_0&nbc=1
 
 30.12.2020: Changed the guide
+03.01.2021: Changed the guide, added a hint for the rudder angle sensor
