@@ -1,7 +1,7 @@
 # pypilot-tinypilot-mysolution-infos
  Anleitung und Schaltpläne (kicad)
 
-Im Ordner guide findet man eine Anleitung
+Im Ordner guide findet man eine Anleitung sowie einen Ordner mit drei Schaltplänen
 
 Im Ordner kicad findet man drei zip-Ordner
 Diese enthalten die kicad-Projektdateien.
@@ -14,4 +14,4 @@ Die Maske passt für ein Universalgehäuse 160 x 80 mm wie z.B. dieses:
 https://www.reichelt.de/gehaeuse-serie-euromas-i-160-x-80-x-55-mm-ip65-bopla-m-220-g-p126250.html?&trstct=pos_0&nbc=1
 
 
-30.12.2020: Anleitung geändert und aktualisiert
+03.01.2021: Anleitung geändert und aktualisiert, einen Hinweis zum Ruderlagesensor ergänzt
