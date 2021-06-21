@@ -14,5 +14,4 @@ Die Maske passt für ein Universalgehäuse 160 x 80 mm wie z.B. dieses:
 https://www.reichelt.de/gehaeuse-serie-euromas-i-160-x-80-x-55-mm-ip65-bopla-m-220-g-p126250.html?&trstct=pos_0&nbc=1
 
 
-26.06.2021: Anleitung geändert und aktualisiert, Hinweise zum Ruderlagesensor ergänzt
-26.06.2021: Reparaturanleitung Potentiomenter PCNautic Aktuator ergänzt 
+26.06.2021: Anleitung geändert und aktualisiert, Hinweise zum Ruderlagesensor ergänzt, Reparaturanleitung Potentiomenter PCNautic Aktuator ergänzt 
