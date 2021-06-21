@@ -15,4 +15,4 @@ Print and cut out and place it in the lid of the housing.
 It fits for a housing 160 x 80 mm
 like this: https://www.reichelt.de/gehaeuse-serie-euromas-i-160-x-80-x-55-mm-ip65-bopla-m-220-g-p126250.html?&trstct=pos_0&nbc=1
 
-03.01.2021: Changed the guide, added a hint for the rudder angle sensor
+26.06.2021: Changed the guide, added hints for the rudder angle sensor, added a repair manual for the potentiometer of the pcnautic actuator
